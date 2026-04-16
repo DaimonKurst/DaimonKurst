@@ -1,10 +1,38 @@
-- 👋 Hi, I’m @Damian
-- 👀 I’m interested in Dietetic, Martial Arts, Survival, Hirudoteraphy
-- 🌱 I’m currently learning PYTHON !
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🔥 RedNode – Automated Pentesting Framework
+RedNode is an offensive security framework designed for automated vulnerability discovery in web applications and APIs.
 
-<!---
-DaimonKurst/DaimonKurst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚔️ Core Concept
+Unlike traditional scanners, RedNode focuses on:
+request mutation
+real traffic replay
+business logic exploitation
+
+🚀 Features
+HAR-based endpoint extraction
+Request deduplication & filtering
+Automated IDOR detection
+API fuzzing engine
+Multi-request exploit chaining
+Timing-based vulnerability analysis
+
+💥 Real-World Example
+RTB Auction Manipulation
+Identified vulnerability in real-time bidding system
+Exploited using:
+request mutation
+geo spoofing
+parameter manipulation
+
+Result:
+inconsistent backend behavior
+potential revenue manipulation
+
+🧠 Why It Matters
+Most tools scan.
+RedNode exploits.
+
+🎯 Focus Areas
+IDOR / Broken Access Control
+API Security
+Business Logic Vulnerabilities
+Offensive Automation
