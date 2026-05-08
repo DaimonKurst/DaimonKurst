@@ -1,6 +1,14 @@
 # REDNODE
 
-Autonomous Offensive Security Intelligence Research
+Runtime-Aware Offensive Security Intelligence Platform
+
+Researching:
+
+- runtime telemetry
+- attack-chain reasoning
+- execution governance
+- attack surface intelligence
+- autonomous offensive workflows
 
 ---
 
