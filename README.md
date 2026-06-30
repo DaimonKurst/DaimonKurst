@@ -1,63 +1,90 @@
 # REDNODE
 
-Runtime-Aware Offensive Security Intelligence Platform
+Runtime Offensive Intelligence Operating System (ROiOS)
 
-Researching:
-
-- runtime telemetry
-- attack-chain reasoning
-- execution governance
-- attack surface intelligence
-- autonomous offensive workflows
+Runtime-Aware Offensive Security Research
 
 ---
 
-## Focus Areas
+## Research
 
-- Web/API Security
-- Attack Surface Intelligence
+RedNode explores offensive security from a runtime-first perspective.
+
+Current research focuses on:
+
+- Runtime Intelligence
 - Runtime Telemetry
-- IDOR/BOLA Research
-- Attack-Chain Reasoning
-- Autonomous Offensive Systems
-- Runtime Governance
-- Evidence Correlation
+- Attack-Chain Intelligence
+- Execution Governance
+- Attack Surface Intelligence
+- Evidence-Driven Security
+- Autonomous Engineering
+- Runtime Knowledge Systems
 - Behavioral Security Analysis
 
 ---
 
-## RedNode Research Platform
+## Core Research Areas
 
-RedNode is a future-oriented offensive security intelligence framework focused on:
-
-- runtime-aware execution
-- attack-chain correlation
-- telemetry-driven reasoning
-- governance-aware offensive workflows
-- Web/API attack surface intelligence
-- autonomous security research pipelines
+- Web & API Security
+- Attack Surface Intelligence
+- Runtime Telemetry
+- Runtime Intelligence
+- IDOR / BOLA Research
+- Attack-Chain Reasoning
+- Execution Governance
+- Evidence Correlation
+- Trust Boundary Analysis
+- Identity Propagation
+- Behavioral Security
+- Autonomous Security Systems
 
 ---
 
-## Public Research Repository
+## ROiOS Research
 
-➡️ RedNode-Public  
-https://github.com/DaimonKurst/RedNode-Public
+RedNode is an experimental research project investigating how offensive security systems can evolve from isolated tools into a governed Runtime Offensive Intelligence Operating System.
+
+The research combines:
+
+- runtime-aware execution
+- attack-chain intelligence
+- telemetry-driven observation
+- evidence-based reasoning
+- execution governance
+- autonomous engineering
+- distributed intelligence
+- runtime knowledge systems
 
 ---
 
 ## Research Direction
 
-Current long-term research areas:
+Long-term research includes:
 
-- runtime execution intelligence
-- attack graph systems
-- temporal security intelligence
-- AI runtime security
-- autonomous reasoning systems
-- trust-boundary analysis
-- distributed authorization analysis
-- telemetry-aware offensive workflows
+- Runtime Intelligence
+- Offensive Intelligence
+- Attack Graph Systems
+- Runtime Knowledge Graphs
+- Runtime Telemetry
+- Temporal Security Intelligence
+- Autonomous Engineering
+- Engineering Intelligence
+- Distributed Runtime Intelligence
+- Resource Evolution
+- Runtime Governance
+- AI Runtime Security
+- Trust Boundary Analysis
+- Identity Propagation Analysis
+- Evidence Intelligence
+
+---
+
+## Public Research Repository
+
+➡️ **RedNode-Public**
+
+https://github.com/DaimonKurst/RedNode-Public
 
 ---
 
@@ -73,15 +100,17 @@ Current long-term research areas:
 
 ---
 
-## Philosophy
+## Research Philosophy
 
-Modern security issues are rarely isolated bugs.
+Modern security problems are rarely isolated vulnerabilities.
 
-They are usually:
-- trust failures,
-- behavioral desynchronization,
-- identity propagation flaws,
-- runtime inconsistencies,
-- chainable security states.
+They emerge from interactions between runtime components, identities, execution paths and trust boundaries.
 
-RedNode is being designed around this assumption.
+RedNode investigates security as a continuous runtime process built around:
+
+- evidence before assumptions
+- telemetry before conclusions
+- governance before execution
+- runtime context before isolated findings
+
+The objective is to improve offensive security research through runtime awareness, structured evidence collection and governed execution.
